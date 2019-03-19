@@ -1,10 +1,16 @@
 package com.test.packa;
 
-public class Santhosh_01 {
+public class Janani_Branch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Base Class Created");
+
+		
+int a=10, b=20, c;
+		
+		c=a+b;
+		
+		System.out.println(c);
 	}
 
 }
